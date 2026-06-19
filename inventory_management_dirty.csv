@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Supplier,Warehouse,Quantity_Stock,Unit_Price,Purchase_Date,Expiry_Date,Reorder_Level,Sales_Last_Month,Damaged_Items,Status
+P1179,Offise Chair,clothing,XYZ Supplies,  Bangalore  ,309,not available,6/13/2023,32-13-2023,40,227,14, Available 
+P1171,  Jeans  ,Groccery,  Prime Distributors  ,delhi,,363.59,10/19/2023,11/11/2026,20,112,15,  In Stock  
+P1072,Dinig Table,furniture,Quick Supply Co,New Delhi,316,4005.06,11/5/2022,2/6/2021,13,249,5,In Stock
+P1090,Mixer Grinder,  Furnture  ,Prime Distributors,  MUMBAI  ,unknown,-1600.4,6/6/2022,9/3/2024,6,222,3,available
+P1055,  Mobile Phone  ,sports,abc traders,KOLKATA,68,972.13,12/15/2022,1/24/2024,16,207,2,  Available  
+P1056,  T-Shirt  ,Furnture,XYZ Supplies,Mumbai Warehouse,unknown,"$3,233.47 ",4/6/2022,3/19/2024,20,95,14,Available
+P1159,Mixr Grinder,  Sports  , Global Mart ,mumbai,184,"₹4,987.31",1/3/2022,32-13-2023,13,212,13,In Stock
+P1063,Shose,STATIONERY,   Global Mart   ,KOLKATA,277,2624.48,2/11/2022,4/3/2026,8,247,295,  Available  
+P1164,Laptop,Electronics,  Local Suppliers Ltd  ,Bengaluru,128,not available,21-10-2022,2/28/2024,41,56,14,Available
+P1086,Shose,Sports,XYZ Supplies,Delhi Warehouse,408,4012.82,12/12/2023,6/19/2025,,,11,available
+P1166,  Shose  ,  Sportss  ,ABC Traders,  Mumbai Warehouse  ,200,4700.16,7/28/2023,8/9/2024,12,183,1,  out stock  
+P1109,Backpack,Sports,Reliable Goods,  kolkata  ,27,"$3,753.42 ",9/11/2023,,30,287,9,Available
+P1116,Wrist Wach,Stationary,  Local Suppliers Ltd  ,DELHI,71,"$3,670.39 ",,10/13/2026,39,187,9,Out of Stock
+P1070,Notbook,  CLOTHING  ,Sharma & Co,Delhi,277,2106.45,7/5/2022,32-13-2023,26,167,14,  Out of Stock  
+P1054,Notebook,stationery,   Global Mart   ,KOLKATA,0,2383.74,6/10/2023,32-13-2023,7,90,13,available
+P1026,  Criket Bat  ,ELECTRONICS,Reliable Goods,MUMBAI,118,,5/22/2023,6/19/2025,24,247,11,out stock
+???,CORRUPT###,,,,error,####,not a date,not a date,,,NaN,???
+P1170,Tshirt,Clothng,Sharma & Co,delhi,313,3915.09,8/9/2022,10/12/2020,18,76,15,available
+P1076,Football,Furnture,Reliable Goods,DELHI,0,-2639.99,2/10/2022,9/3/2026,50,162,11,Out of Stock
+P1167,Refrigirator,GROCERY,Prime Distributors,New Delhi,130,"₹4,615.70",14-02-2022,18-03-2025,12,216,9,  AVAILABLE  
+P1079,Criket Bat,  Stationary  ,  Quick Supply Co  ,  Mumbai Warehouse  ,485,3146.57,7/23/2023,5/3/2020,14,33,7,Available
+P1108,Mixer Grinder,SPORTS,Sharma & Co,chennai,68,4433.32,12/24/2023,4/20/2024,50,257,3,Out of Stock
+P1103,Television,Furniture,  ABC Traders  ,Mumbai,184,3695.32,28-01-2022,6/12/2024,28,205,12,In Stock
+P1097,  Football  ,furniture,Reliable Goods,bangalore,,4999.54,2/11/2022,20-01-2024,5,188,3,available
+P1029,Wrist Wach,Furniture,  XYZ Supplies  ,delhi,49,1949.34,10/24/2023,11/4/2025,49,120,61,out stock
+P1094,  Shoes  ,Groccery,Quick Supply Co,  Bangalore  ,169,not available,1/11/2023,22-12-2025,33,213,184, Available 
+P1110,Football,  electronics  ,  Best Vendors  ,Bengaluru,360,2946.04,12/7/2022,6/2/2026,10,299,375,  available  
+P1060,  Football  ,electroncs,  Local Suppliers Ltd  ,Chennai,302,3133.71,1/12/2023,6/23/2026,39,153,14,Out of Stock
+P1067,Footbal,Furnture,abc traders,KOLKATA,367,2709.67,11/22/2022,14-02-2026,0,23,379,  available  
+P1053,Jens,  stationery  ,Prime Distributors,CHENNAI,369,"₹3,386.35",25-06-2023,12/3/2025,18,287,7,out stock
+P1003,  Footbal  ,  Clothing  ,ABC Traders,Mumbai Warehouse,259,1499.24,12/3/2022,1/20/2026,24,290,275, Available 
+P1136,Jeans,Sportss,XYZ Supplies,  DELHI  ,91,"$2,432.00 ",11/16/2023,5/2/2026,5,40,11,In Stock
+P1113,  Footbal  ,  ELECTRONICS  ,Best Vendors,MUMBAI,230,94.29,,32-13-2023,27,154,14, Available 
+P1059,Backpck,  GROCERY  ,  abc traders  ,mumbai,,3078.47,,8/20/2020,30,28,9,out stock
+P1077,  Wrist Watch  ,stationery,XYZ Supplies,bangalore,117,521.11,13-03-2023,3/3/2026,27,77,14,Available
+P1157,Backpck,Furnture,Prime Distributors,delhi,,4167.81,24-11-2022,5/5/2025,7,266,10,out stock
+P1056,  T-Shirt  ,Furnture,XYZ Supplies,Mumbai Warehouse,unknown,"$3,233.47 ",4/6/2022,3/19/2024,20,95,14,Available
+P1050,Shoes,Electronics,  Reliable Goods  ,Mumbai Warehouse,,not available,2/13/2023,5/27/2026,30,285,4,Out of Stock
+P1083,Tshirt,  ELECTRONICS  ,Sharma & Co,kolkata,234,₹486.93,2/19/2023,32-13-2023,25,167,2,available
+P1005,  Backpack  ,Elec,abc traders,Bengaluru,unknown,312.46,7/4/2022,7/6/2024,30,276,2,   Available   
+P1042,  Wrist Wach  ,CLOTHING,ABC Traders,MUMBAI,0,-2088.67,12/9/2022,9/26/2026,45,8,8,  out stock  
+P1084,Cricket Bat,furniture,Local Suppliers Ltd,mumbai,436,"₹3,433.41",4/27/2022,,,231,3, Available 
+P1172,Mixer Grinder,clothing,abc traders,mumbai,N/A,-564.44,3/25/2023,10/6/2025,40,267,6,
+P1165,Backpck,Stationery,abc traders,DELHI,unknown,1298.61,8/3/2022,13-10-2024,32,226,,Available
+P1049,Football,FURNITURE, Global Mart ,kolkata,238,712.98,14-10-2023,6/19/2024,37,,14,available
+P1036,Television,  Grocery  ,XYZ Supplies,mumbai,372,746.97,4/6/2023,2/6/2026,33,165,4,In Stock
+P1078,Mixer Grinder,Clothing,   Global Mart   ,  DELHI  ,369,3455.48,4/17/2023,,36,36,11,available
+P1128,Footbal,FURNITURE,Best Vendors,  bangalore  ,493,3252.83,6/11/2023,8/3/2026,15,215,2,  AVAILABLE  
+P1008,Jens,Elec, Global Mart ,New Delhi,0,"$1,720.97 ",,2/21/2024,13,226,0,out stock
+P1075,T-Shirt,  electroncs  ,abc traders,Bangalore,137,386.83,7/17/2022,8/16/2025,10,183,12,In Stock
+P1157,  Backpack  ,GROCERY,Prime Distributors,  chennai  ,220,3938.76,3/22/2022,2/19/2021,16,55,12,out stock
+P1101,Pen Set,Grocery,  Reliable Goods  ,MUMBAI,0,853.23,7/21/2022,20-01-2026,-5,280,6,  out stock  
+P1093,  Backpck  ,Stationery, Global Mart ,Mumbai Warehouse,413,1992.8,15-09-2023,10/17/2026,42,54,9,AVAILABLE
+P1082,Laptop,Furniture,Best Vendors,MUMBAI,252,3664.99,3/1/2022,32-13-2023,5,34659,3,available
+P1177,  Sofa Set  ,FURNITURE,  ABC Traders  ,Chennai,218600,-4866.3,8/3/2022,32-13-2023,16,162,14,available
+P1011,Refrigerator,ELECTRONICS,abc traders,New Delhi,158,3489.07,7/22/2022,10/19/2024,18,164,6, Available 
+P1151,Shose,  SPORTS  ,Best Vendors,  Delhi  ,407,3999.83,1/11/2023,4/1/2026,24,3,12,Out of Stock
+P1048,  Tshirt  ,SPORTS,Quick Supply Co,delhi,,2888.09,21-10-2023,9/10/2026,48,30,13,available
+P1033,  Shoes  ,Elec,Local Suppliers Ltd,Mumbai Warehouse,432,3112.4,10/22/2022,5/23/2024,14,72,2,available
+???,CORRUPT###,,,,error,####,not a date,not a date,,,NaN,???
+P1056,  Televison  ,  Furnture  ,Best Vendors,Chennai,133,320,3/13/2023,23-05-2026,19,78,11,Out of Stock
+P1117,Televison,SPORTS,  Local Suppliers Ltd  ,  Mumbai  ,337,"₹3,662.70",4/25/2022,8/6/2025,29,,3,Out of Stock
+P1129,Sofa St,Furnture,Prime Distributors,CHENNAI,230,$125.27 ,12/23/2023,4/7/2020,6,42,2,In Stock
+P1130,  T-Shirt  ,  Grocery  ,abc traders,chennai,445,-2229.78,10/20/2022,10/14/2026,35,226,4,Available
+P1099,Notbook,Sportss,  Quick Supply Co  ,mumbai,195,4355.54,6/14/2022,3/11/2025,16,231,5,available
+P1169,Mixr Grinder,Stationery, Global Mart ,mumbai,171,-3790.17,9/6/2023,5/1/2026,,,9, Available 
+P1079,Mixer Grinder,  stationery  ,Quick Supply Co,  MUMBAI  ,435,3983.17,6/18/2022,,32,235,8,Out of Stock
+P1061,  Mixer Grinder  ,grocery,XYZ Supplies,  CHENNAI  ,97,,4/26/2022,16-04-2026,5,60,7,  out stock  
+P1145,  Football  ,CLOTHING,  Prime Distributors  ,  Delhi Warehouse  ,134,2921.83,16-09-2022,21-03-2024,20,128,0,Available
+P1079,Mixer Grinder,  stationery  ,Quick Supply Co,  MUMBAI  ,435,3983.17,6/18/2022,,32,235,8,Out of Stock
+P1082,Mixer Grinder,Elec,Local Suppliers Ltd,Delhi,191,2439.16,17-06-2022,18-09-2024,18,53,13,Available
+P1146,Refrigerator,  ELECTRONICS  ,Prime Distributors,Kolkata,454,218.71,12/11/2023,10/20/2026,38,21,12,Available
+P1058,Refrigirator,electronics,XYZ Supplies,delhi,unknown,not available,6/13/2023,7/3/2025,15,201,7,   Available   
+P1053,Jens,  stationery  ,Prime Distributors,CHENNAI,369,"₹3,386.35",25-06-2023,12/3/2025,18,287,7,out stock
+P1139,  Televison  ,  Furniture  ,Reliable Goods,mumbai,405,4496.13,10/21/2022,32-13-2023,26,213,7,
+P1155,Jeans,  Grocery  ,Quick Supply Co,KOLKATA,0,538.58,7/6/2023,11/27/2026,17,273,14,Available
+P1115,Wrist Wach,ELECTRONICS,XYZ Supplies,mumbai,169,1180.32,4/11/2022,11/10/2026,25,160,13,  AVAILABLE  
+P1124,Office Chair,furniture,Local Suppliers Ltd,KOLKATA,355,2423.31,8/22/2023,8/4/2024,48,211,0,  AVAILABLE  
+P1029,Lapttop,  Sportss  , Global Mart ,MUMBAI,169,1166.96,3/21/2022,20-12-2024,5,32,5,available
+P1122,T-Shirt,  Stationery  ,Sharma & Co,  Mumbai  ,402,3488.32,21-07-2022,8/20/2024,,205,1,   Available   
+P1028,Dining Table,Grocery,Prime Distributors,Chennai,58,not available,12/9/2023,18-05-2024,42,190,0,Out of Stock
+P1064,  Jeans  ,stationery,   Global Mart   ,New Delhi,317,1343.95,7/15/2023,4/10/2026,46,194,0,Available
+P1019,  Shose  ,Electronics,Prime Distributors,  chennai  ,unknown,4112.36,10/21/2022,32-13-2023,20,115,12,In Stock
+P1027,  Sofa St  ,Stationery,ABC Traders,Kolkata,397,1768.08,11/25/2023,21-03-2026,,67,13,available
+P1116,Wrist Watch,SPORTS,  abc traders  ,delhi,N/A,-633.95,3/4/2022,32-13-2023,36,16,4, Available 
+P1020,Mobil Phone,  STATIONERY  ,Sharma & Co,Mumbai Warehouse,0,not available,2/5/2023,12/28/2025,45,101,4,   Available   
+P1043,  T-Shirt  ,Sports, Global Mart ,Bengaluru,93,not available,2/4/2023,5/17/2025,46,24,3,In Stock
+P1052,  Mixer Grinder  ,  Stationery  ,Quick Supply Co,  New Delhi  ,214,2057.78,24-12-2023,4/18/2026,16,279,8,available
+P1158,Laptop,  Stationery  ,Local Suppliers Ltd,  Bengaluru  ,162,3401,12/12/2023,13-09-2026,,183,0,out stock
+P1022,Football,Grocery,Prime Distributors,Bangalore,232,-588.45,11/28/2022,4/17/2024,8,147,,out stock
+P1036,Television,  Grocery  ,XYZ Supplies,mumbai,372,746.97,4/6/2023,2/6/2026,33,165,4,In Stock
+P1121,Jeans,Sports,  Sharma & Co  ,Delhi,-1,"$4,023.39 ",3/14/2022,9/14/2025,18,247,15,AVAILABLE
+P1153,Jens,furniture,Best Vendors,Kolkata,424,"$1,518.57 ",4/3/2022,5/9/2025,24,50,4,Available
+???,CORRUPT###,,,,error,####,not a date,not a date,,,NaN,???
+P1018,Pen St,Clothng,Local Suppliers Ltd,Bengaluru,61,3716.98,4/7/2022,10/25/2026,23,7,1,Out of Stock
+P1160,  Pen Set  ,Clothing,Quick Supply Co,MUMBAI,474,4891.38,2/19/2023,3/24/2024,22,45,2,Out of Stock
+P1076,Football,Furnture,Reliable Goods,DELHI,0,-2639.99,2/10/2022,9/3/2026,50,162,11,Out of Stock
+P1077,Laptop,furniture,Reliable Goods,chennai,421,689.26,11/8/2022,5/24/2025,25,201,6,  Out of Stock  
+P1114,T-Shirt,Sports, Global Mart ,CHENNAI,N/A,₹218.45,18-09-2023,12/24/2026,14,129,5,Out of Stock
+P1046,  Shose  ,electroncs,  Prime Distributors  ,Bengaluru,495,1743.65,28-05-2023,11/6/2026,13,184,4,  Available  
+P1088,T-Shirt,Grocery,  abc traders  ,Delhi Warehouse,396,1830.8,10/4/2023,3/24/2024,16,182,5,out stock
+P1089,Mixr Grinder,Stationary,  ABC Traders  ,chennai,113,"₹2,485.96",4/12/2022,12/22/2024,5,131,1,out stock
+P1087,Laptop,Clothng,Quick Supply Co,bangalore,150,not available,1/21/2023,1/22/2026,10,142,8,Available
+P1135,Jeans,  CLOTHING  , Global Mart ,chennai,425,810.11,5/27/2023,1/25/2025,44,122,443,available
+P1038,Dinig Table,Grocery,Best Vendors,chennai,unknown,1655.16,5/9/2023,11/3/2026,46,43,12,AVAILABLE
+P1133,Sofa St,  stationery  ,XYZ Supplies,New Delhi,254,"$1,322.34 ",6/23/2022,16-09-2024,5,293,2,Available
+P1087,Sofa St,  STATIONERY  ,Sharma & Co,Bangalore,432,"$1,596.84 ",10/1/2023,10/5/2026,36,19,,  In Stock  
+P1105,Televison,Stationery,  Reliable Goods  ,KOLKATA,5,"₹4,245.74",2/25/2022,5/2/2025,20,293,14,
+P1040,  Wrist Watch  ,GROCERY,Prime Distributors,mumbai,225,-1915.54,4/26/2022,1/21/2021,30,82,4,Available
+P1133,Sofa Set,  Electronics  ,Sharma & Co,  Bengaluru  ,101,2610.48,7/22/2023,24-11-2024,25,26,3,In Stock
+P1116,Wrist Wach,stationery,abc traders,Delhi,unknown,173.24,12/20/2023,11/3/2024,15,187,1,available
+P1021,Jeans,clothing,Reliable Goods,kolkata,,1618.38,4/22/2022,11/27/2024,38,92,13,In Stock
+???,CORRUPT###,,,,error,####,not a date,not a date,,,NaN,???
+P1167,Offise Chair,Stationary,  Sharma & Co  ,delhi,153,3156.78,11/15/2022,4/1/2024,39,230,164, Available 
+P1127,Pen St,Groccery,  Quick Supply Co  ,MUMBAI,411,1910.61,26-08-2022,3/28/2025,24,24,1,AVAILABLE
+P1153,Jens,furniture,Best Vendors,Kolkata,424,"$1,518.57 ",4/3/2022,5/9/2025,24,50,4,Available
+P1023,Laptop,  ELECTRONICS  ,XYZ Supplies,New Delhi,0,-3530,8/8/2023,4/20/2025,20,136,9,Out of Stock
+P1080,Mobil Phone,STATIONERY,   Global Mart   ,Delhi Warehouse,413546,3606.62,12/25/2022,1/11/2024,41,261,5,AVAILABLE
+P1098,Jeans,Clothing,ABC Traders,mumbai,351,4533.57,3/27/2023,5/4/2024,16,45,9,AVAILABLE
+P1024,Shoes,Sports,Reliable Goods,chennai,122,"$3,879.97 ",12/26/2023,11/5/2026,26,225,0,In Stock
+P1065,Notebook,  electronics  ,Quick Supply Co,delhi,143,174.18,1/7/2023,10/2/2021,48,71,2,  AVAILABLE  
+P1009,Tshirt,electronics,ABC Traders,mumbai,181,2037.82,28-04-2022,1/7/2024,47,136,12, Available 
+P1119,  Lapttop  ,electroncs,   Global Mart   ,  kolkata  ,28,2588.04,12/24/2022,4/15/2024,31,93,5,AVAILABLE
+P1157,Sofa St,  STATIONERY  ,  Best Vendors  ,mumbai,-47,973.67,9/24/2022,11/19/2024,11,205,14,AVAILABLE
+P1168,Dinig Table,Stationery,  Local Suppliers Ltd  ,MUMBAI,N/A,2361.39,4/23/2022,11/2/2020,42,58,7,available
+P1154,Laptop,electronics,Quick Supply Co,chennai,N/A,1569.28,11/7/2023,5/18/2025,15,46675,6,Out of Stock
+P1138,Backpack,Clothing,abc traders,  KOLKATA  ,474,2267.49,12/2/2022,10/3/2026,6,141,4,In Stock
+P1012,Offise Chair,Stationery,  abc traders  ,MUMBAI,101,not available,8/14/2022,12/13/2026,11,265,3, Available 
+P1134,Notbook,  GROCERY  ,ABC Traders,Kolkata,0,-2504.6,2/11/2023,18-12-2024,46,224,13,
+P1107,  Backpack  ,  SPORTS  ,XYZ Supplies,  Bangalore  ,97,"₹2,078.21",,16-03-2026,42,90,4,out stock
+P1152,Footbal,CLOTHING,ABC Traders,  Kolkata  ,442,3922.11,9/10/2022,18-09-2025,27,15,5,  In Stock  
+???,CORRUPT###,,,,error,####,not a date,not a date,,,NaN,???
+P1013,Football,clothing,Local Suppliers Ltd,KOLKATA,0,3761.37,9/16/2023,2/23/2025,10,78,14,In Stock
+P1140,  Mixer Grinder  ,  Clothng  ,Local Suppliers Ltd,chennai,25,4855.49,4/14/2022,11/3/2024,21,66,6,out stock
+P1091,Sofa Set,  Furniture  ,ABC Traders,KOLKATA,0,1479.8,4/4/2023,5/3/2026,36,278,12,  In Stock  
+P1034,Jens,Stationary,  Quick Supply Co  ,  delhi  ,25,-3313.07,9/7/2023,14-06-2024,47,,6, Available 
+P1173,  Televison  ,Clothing,Quick Supply Co,Delhi,N/A,2526.04,,8/8/2025,18,,9,In Stock
+P1081,  Notbook  ,  Clothng  ,  ABC Traders  ,Kolkata,91,2768.8,11/4/2023,9/6/2026,8,23,106, Available 
+P1037,Mobil Phone,ELECTRONICS,  Prime Distributors  ,CHENNAI,unknown,3078.89,10/18/2023,21-10-2025,8,175,2,  available  
+P1014,Lapttop,Stationary,  Prime Distributors  ,CHENNAI,456,3740.1,8/8/2022,7/11/2024,34,,0,  In Stock  
+P1041,Pen Set,  Clothing  ,Local Suppliers Ltd,Bangalore,14,"₹3,576.37",3/2/2022,27-12-2025,,76,13,  AVAILABLE  
+P1147,  Mobil Phone  ,clothing,Best Vendors,Chennai,313,4519.34,2/24/2023,7/14/2020,50,46,5,  Available  
+P1004,Cricket Bat,SPORTS,Sharma & Co,mumbai,343,2592.7,11/2/2022,8/10/2024,7,121,4,Out of Stock
+P1131,Jeans,Electronics,Prime Distributors,Kolkata,408,$46.02 ,9/14/2023,12/21/2026,5,139,8,   Available   
+P1095,Pen St,Clothng,XYZ Supplies,kolkata,268,not available,4/2/2022,32-13-2023,34,63,15,available
+P1156,Wrist Wach,Sportss,Prime Distributors,  MUMBAI  ,132,3501.08,16-08-2023,32-13-2023,23,65,3,  out stock  
+P1121,Jeans,Sports,  Sharma & Co  ,Delhi,-1,"$4,023.39 ",3/14/2022,9/14/2025,18,247,15,AVAILABLE
+P1066,Footbal,SPORTS,Reliable Goods,  chennai  ,230,4706.3,2/25/2023,3/12/2024,14,54,14,  AVAILABLE  
+P1111,Jens,sports,XYZ Supplies,chennai,266,2085.5,8/6/2022,10/6/2025,40,4,7,Out of Stock
+P1144,  T-Shirt  ,Furnture,Quick Supply Co,MUMBAI,218,1653.13,11/5/2022,3/10/2024,0,80,3, Available 
+P1168,Dinig Table,electronics,Local Suppliers Ltd,MUMBAI,184,not available,6/22/2023,9/1/2024,40,141,14,  Out of Stock  
+P1148,Offise Chair,Furnture,Local Suppliers Ltd,Mumbai,393,4357.81,3/6/2022,32-13-2023,23,67,,In Stock
+P1092,Sofa St,electroncs,  XYZ Supplies  ,CHENNAI,387,4205.58,9/22/2023,10/8/2024,,75,5,available
+P1017,Sofa St,GROCERY,XYZ Supplies,  Bengaluru  ,312,2476.59,4/12/2023,,20,243,0,available
+P1175,  Refrigirator  ,  furniture  ,XYZ Supplies,mumbai,164,-3404.33,6/12/2022,2/16/2026,33,33,2,available
+P1070,Mixr Grinder,furniture,  Reliable Goods  ,New Delhi,265,1112.95,11/19/2023,16-01-2025,0,105,3,out stock
+P1030,Notbook,  clothing  ,Sharma & Co,  Delhi  ,64,"$4,150.79 ",11/4/2022,9/1/2026,12,10973,,  AVAILABLE  
+P1007,Mobile Phone,Clothing,Quick Supply Co,  Mumbai Warehouse  ,122,"₹3,231.05",1/15/2022,18-02-2024,9,80,9,
+P1062,Jeans,Sports,Best Vendors,kolkata,411,4200.26,14-06-2023,5/12/2024,31,117,15,out stock
+P1106,Mobile Phone,Electronics,Quick Supply Co,Chennai,335,1823.08,8/11/2022,8/23/2026,,149,,available
+P1045,Pen St,STATIONERY,  ABC Traders  ,  Bengaluru  ,unknown,1920.44,11/15/2022,10/5/2024,,265,3,AVAILABLE
+P1151,Shose,  SPORTS  ,Best Vendors,  Delhi  ,407,3999.83,1/11/2023,4/1/2026,24,3,12,Out of Stock
+P1073,Mobil Phone,Electronics,Sharma & Co,KOLKATA,350,2224.82,10/4/2022,5/6/2026,37,278,1,In Stock
+P1031,Office Chair,Stationary,  Quick Supply Co  ,  kolkata  ,372,2612.04,1/16/2022,8/23/2024,9,299,9,Out of Stock
+P1096,  Mixer Grinder  ,  Electronics  ,Local Suppliers Ltd,Delhi Warehouse,995404,not available,2/16/2022,11/21/2020,30,246,3,AVAILABLE
+P1162,Tshirt,FURNITURE,Best Vendors,MUMBAI,,4837.05,8/25/2022,11/15/2024,,,14,AVAILABLE
+???,CORRUPT###,,,,error,####,not a date,not a date,,,NaN,???
+P1076,Jeans,  sports  ,Prime Distributors,  delhi  ,428,"₹4,289.68",7/7/2022,5/6/2026,,119,,  In Stock  
+P1067,Dining Table,  Electronics  ,  Local Suppliers Ltd  ,chennai,N/A,3626.97,17-10-2022,3/9/2024,22,39,7,In Stock
+P1039,  Dinig Table  ,Stationery,  abc traders  ,  Chennai  ,485,"$4,999.88 ",2/17/2023,1/22/2026,14,84,497,available
+P1000,Lapttop,  GROCERY  ,XYZ Supplies,  KOLKATA  ,15,"$3,014.07 ",4/15/2023,3/23/2024,26,183,1,  Out of Stock  
+P1006,Mixr Grinder,Grocery,Reliable Goods,Bengaluru,374,3594.86,4/2/2023,,38,41,377,available
+P1057,Refrigirator,Stationery,XYZ Supplies,kolkata,unknown,not available,3/11/2022,4/23/2026,8,233,14,AVAILABLE
+P1134,Notbook,  GROCERY  ,ABC Traders,Kolkata,0,-2504.6,2/11/2023,18-12-2024,46,224,13,
+P1143,Mixer Grinder,  stationery  ,abc traders,  KOLKATA  ,494,117.23,6/16/2023,6/22/2024,37,131,0,  AVAILABLE  
+P1126,Sofa St,Stationary,Best Vendors,  Delhi Warehouse  ,244,not available,8/4/2022,1/12/2025,15,280,10,In Stock
+P1127,Tshirt,  furniture  ,Local Suppliers Ltd,chennai,458,4903.64,10/24/2022,16-12-2024,30,182,465,available
+P1126,  Televison  ,Stationery,Reliable Goods,  Delhi  ,317,1046.11,12/11/2022,11/19/2020,20,145,5,out stock
+P1077,  Wrist Watch  ,stationery,XYZ Supplies,bangalore,117,521.11,13-03-2023,3/3/2026,27,77,14,Available
+P1010,Pen Set,  GROCERY  ,Sharma & Co,Mumbai Warehouse,142,3400.8,1/4/2023,1/4/2025,43,295,, Available 
+P1125,  Footbal  ,Grocery,  abc traders  ,  Mumbai Warehouse  ,476,1006.34,8/4/2023,5/6/2026,36,277,11,In Stock
+P1141,  Dinig Table  ,ELECTRONICS,Reliable Goods,  DELHI  ,187,,3/12/2023,,28,43,207, Available 
+P1167,Televison,electronics,abc traders,DELHI,397,"$3,690.69 ",20-03-2023,1/19/2024,50,263,3, Available 
+P1097,Pen Set,grocery,Local Suppliers Ltd,Bangalore,N/A,4198.5,22-05-2023,5/21/2025,46,123,12,
+P1047,Shoes,Stationary,  Quick Supply Co  ,chennai,348,"₹4,146.98",3/14/2022,17-02-2024,19,145,8,AVAILABLE
+P1085,Shoes,electroncs,  Local Suppliers Ltd  ,  chennai  ,378,2541.5,12/19/2023,6/11/2024,49,135,7,Out of Stock
+P1110,  Criket Bat  ,Sports,Local Suppliers Ltd,  CHENNAI  ,21,398.53,10/13/2023,13-02-2025,34,45,13,  Out of Stock  
+P1145,Backpack,Furniture,  Best Vendors  ,  mumbai  ,849484,3031.97,22-04-2022,8/5/2026,16,70,13,Available
+P1110,  Criket Bat  ,Sports,Local Suppliers Ltd,  CHENNAI  ,21,398.53,10/13/2023,13-02-2025,34,45,13,  Out of Stock  
+P1118,Criket Bat,Furnture,XYZ Supplies,Bangalore,207,2439.44,9/5/2022,9/21/2024,50,212,15,  In Stock  
+P1142,Notbook,  CLOTHING  ,Sharma & Co,  mumbai  ,132,4961.59,7/19/2022,3/2/2025,34,35470,11,Available
+P1044,Mixer Grinder,Grocery,Prime Distributors,kolkata,unknown,4975.54,4/6/2023,5/15/2025,,180,13, Available 
+P1106,Mobile Phone,Electronics,Quick Supply Co,Chennai,335,1823.08,8/11/2022,8/23/2026,,149,,available
+P1118,Refrigirator,Furniture,XYZ Supplies,bangalore,0,-779.17,,9/17/2025,49,43,11,  Out of Stock  
+P1163,Television,stationery,  Best Vendors  ,  bangalore  ,229,2655.96,9/21/2022,10/21/2025,,123,6,out stock
+P1104,  Notbook  ,  STATIONERY  ,   Global Mart   ,Kolkata,92,3060.68,,1/3/2025,38,289,10,out stock
+P1075,Pen St,  stationery  ,Sharma & Co,DELHI,194,1830.51,11/9/2022,2/20/2026,29,285,1,Available
+P1022,Football,Grocery,Prime Distributors,Bangalore,232,-588.45,11/28/2022,4/17/2024,8,147,,out stock
+P1096,  Pen Set  ,Groccery,XYZ Supplies,  Bangalore  ,399,3240.43,11/14/2023,32-13-2023,0,4,9,out stock
+???,CORRUPT###,,,,error,####,not a date,not a date,,,NaN,???
